@@ -1,5 +1,5 @@
-# Blamarin
-Learning Blazor on Xamarin via Blazor Mobile Bindings using the following resources:
+# Mobile Blazor Bindings
+Learning Mobile Blazor Bindings using the following resources:
 
 | Name | Source  | URL |
 | --- | --- | --- |
